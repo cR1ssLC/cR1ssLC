@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**cR1ssLC/cR1ssLC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cR1ssLC/cR1ssLC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 # 💫 About Me:
 🔭 I’m currently working on my project to title<br>🤝 I’m looking for help with get a job<br>⚡ Fun fact i know a lot about unimportant topics
