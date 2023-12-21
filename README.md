@@ -4,7 +4,7 @@
 **cR1ssLC/cR1ssLC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 # 💫 About Me:
-🔭 I’m currently working on my project to title<br>🤝 I’m looking for help with get a job<br>⚡ Fun fact i know a lot about unimportant topics
+🔭 Bachelor of Computer Science Mension Computer Systems Engineering<br>🤝 Looking for remote or local work<br>⚡ Fun fact i know a lot about unimportant topics
 
 
 ## 🌐 Socials:
